@@ -6,11 +6,11 @@
 
 ## Options to change:
 
-+ Your Name
-+ Bank Name
-+ Card Numbers
-+ Expiration Date
-+ Gradient Card Color
++ Tadiwanashe Kazimbiri
++ FBC Bank
++ 4704 8567 3078 3423
++ 05/29
++ Blue
 + Card Flag
 
 <p align="center">
